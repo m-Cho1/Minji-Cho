@@ -1,4 +1,5 @@
 # Hello, I'm Minji :smile:
+* Practicing React!
 * Currently working on my stretch feature <a href="https://tasks-kanban.herokuapp.com/#sign-in">Kanban List</a> :memo: <br>
 * Open to opportunities!
 
