@@ -1,6 +1,6 @@
 # Hello, I'm Minji :smile:
 * Practicing React!
-* Currently working on my stretch feature <a href="https://tasks-kanban.herokuapp.com/#sign-in">Kanban List</a> :memo: <br>
+* Currently working on my stretch feature <a href="https://kanban-list.minjijcho.com/">Kanban List</a> :memo: <br>
 * Open to opportunities!
 
 ## About me :sunglasses:
@@ -33,7 +33,7 @@ My journey as a developer continues with trying out new tech and libraries!
 
 ## Let's Connect! :raising_hand:
 * <a href="https://www.linkedin.com/in/minji-cho051/">LinkedIn<a/>
-* Check out my resume! [Minji Cho](https://github.com/m-Cho1/m-Cho1/files/9384812/Minji-Cho-Resume.pdf)
+* Check out my resume! [Minji Cho](https://www.linkedin.com/in/minji-cho051/overlay/1635508037794/single-media-viewer/)
 
 
 
