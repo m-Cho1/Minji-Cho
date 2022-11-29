@@ -1,6 +1,6 @@
 # Hello, I'm Minji :smile:
 * Practicing React!
-* Currently working on my stretch feature <a href="https://kanban-list.minjijcho.com/">Kanban List</a> :memo: <br>
+* Working on stretch feature <a href="https://kanban-list.minjijcho.com/">Kanban List</a> :memo: <br>
 * Open to opportunities!
 
 ## About me :sunglasses:
