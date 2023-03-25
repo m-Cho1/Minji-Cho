@@ -1,8 +1,5 @@
 # Hello, I'm Minji :smile:
-* Practicing React!
-* Open to opportunities!
 
-## About me :sunglasses:
 I am a full-stack developer background in Biology :microscope:<br>
 I love playing Animal Crossing on my nintendo switch, listening to music, and watch DIY fix home youtube tutorials :iphone: <br>
 Building and creating things with lines of code was very facinating, and it's how I got into the tech field! <br>
