@@ -3,7 +3,7 @@
 Welcome to my GitHub page! <br>
 I am a full-stack developer background in Biology :microscope:<br>
 I love playing Animal Crossing on my nintendo switch, listening to music, and watch DIY fix home youtube tutorials :iphone: <br>
-Building and creating things with lines of code was very facinating, and it's how I got into the tech field! <br>
+Building and creating things with lines of code was very facinating, and that's how I got into myself in software development! <br>
 It all started with ``<h1>Hello World</h1>`` :grin: <br>
 My journey as a developer continues with trying out new tech and libraries!
 
@@ -30,7 +30,8 @@ My journey as a developer continues with trying out new tech and libraries!
 
 ## Let's Connect! :raising_hand:
 * <a href="https://www.linkedin.com/in/minji-cho051/">LinkedIn<a/>
-* Check out my resume! 👉 [Minji Cho](https://github.com/m-Cho1/m-Cho1/files/12044462/Minji-Cho-Resume.pdf)
+* Check out my resume! 👉 [Minji_Cho](https://github.com/m-Cho1/m-Cho1/files/12175956/Minji_Cho_Resume.pdf)
+
 
 
 
