@@ -8,6 +8,8 @@ It all started with ``<h1>Hello World</h1>`` :grin: <br>
 My journey as a developer continues with trying out new tech and libraries!
 
 ## Skills :computer:
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://user-images.githubusercontent.com/96744088/185199905-96d095cd-fb35-4816-bcf2-49471023dcee.png)
 ![image](https://user-images.githubusercontent.com/96744088/185199847-4a5516f5-1e63-4c38-b914-a87515eb098a.png)
 ![image](https://user-images.githubusercontent.com/96744088/185200132-6174e088-dab1-4e82-989e-914bdd6b55de.png)
