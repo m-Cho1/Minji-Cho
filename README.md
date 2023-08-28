@@ -32,7 +32,8 @@ My journey as a developer continues with trying out new tech and libraries!
 
 ## Let's Connect! :raising_hand:
 * <a href="https://www.linkedin.com/in/minji-cho051/">LinkedIn<a/>
-* Check out my resume! 👉 [Minji_Cho](https://github.com/m-Cho1/m-Cho1/files/12175956/Minji_Cho_Resume.pdf)
+* Check out my resume! 👉 [Minji_Cho](https://github.com/m-Cho1/m-Cho1/files/12456655/Minji_Cho_Resume.pdf)
+
 
 
 
